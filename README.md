@@ -7,4 +7,4 @@
 ## Установка
 
 1. Установите [GreaseMonkey (Firefox)](https://addons.mozilla.org/ru/firefox/addon/greasemonkey/) или [TamperMonkey (Chrome/Chromium)](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-2. Нажмите [Установить скрипт](https://raw.github.com/ratmirslv/YoutubeEpisodeEnable/main/youtubeEpisodeEnable.js)
+2. Нажмите [Установить скрипт](https://raw.github.com/ratmirslv/YoutubeEpisodeEnable/master/youtubeEpisodeEnable.js)

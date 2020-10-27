@@ -15,8 +15,5 @@
 // ==/UserScript==
 
 window.addEventListener("yt-page-data-updated", function () {
-  setTimeout(() => {
-    const buttonEnableEpisodes = document.querySelector(".ytp-chapter-title");
-    buttonEnableEpisodes.click();
-  }, 5000);
+  setTimeout(() => document.querySelector(".ytp-chapter-title").click(), 5000);
 });
